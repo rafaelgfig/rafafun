@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/rafafun.egg-info/PKG-INFO
+src/rafafun.egg-info/SOURCES.txt
+src/rafafun.egg-info/dependency_links.txt
+src/rafafun.egg-info/requires.txt
+src/rafafun.egg-info/top_level.txt
