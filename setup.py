@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='rafafun',
-    version='1.0',
+    version='1.0.2',
     license='MIT',
     author="Rafael G. Figueira",
     author_email='rafaelgfigueira@hotmail.com',
@@ -13,8 +13,7 @@ setup(
     install_requires=[
           'pandas',
 		  'numpy',
-		  'datetime',
-		  'zipfile'
+		  'datetime'
       ],
 
 )
